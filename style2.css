@@ -1,0 +1,74 @@
+body{
+font-family: arial,sans-serif;
+}
+
+.center{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+button{
+    background-color:
+#f2f2f2;
+border: 1px solid
+#f2f2f2;
+border-radius: 4px;
+color:#5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.search{
+    background-color:
+transparent;
+color:
+    rgba(0,0,0,.87);
+    outline: none;
+    font: 16px arial,sans-serif;
+        line-height: normal;
+    line-height: 34px;
+    height: 34px !important;
+}
+li a{
+    text-decoration: none;
+    font-size: 13px;
+}
+li{
+    display:inline;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+}
+.pad{
+border-top: 10px;
+padding-bottom: 10px;
+border-radius: 4px;
+}
+.background{
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    background-color: #f2f2f2;
+}
+.background p{
+    padding-left: 27px;
+}
+.buttonz{
+text-align: center;
+ padding-top: 50px;
+position: relative;
+}
+.pad > li{
+    padding-left: 27px;
+}
