@@ -27,15 +27,14 @@ color:#5F6368;
 }
 
 .search{
-    background-color:
-transparent;
-color:
-    rgba(0,0,0,.87);
+    background-color: transparent;
+    color:rgba(0,0,0,.87);
     outline: none;
     font: 16px arial,sans-serif;
-        line-height: normal;
+    line-height: normal;
     line-height: 34px;
     height: 34px !important;
+    border-radius: 50px;
 }
 li a{
     text-decoration: none;
@@ -71,4 +70,7 @@ position: relative;
 }
 .pad > li{
     padding-left: 27px;
+}
+p{
+font-size: small;
 }
