@@ -67,21 +67,24 @@ text-align: center;
  padding-top: 50px;
 position: relative;
 }
-.pad > li{
+.footer > li{
     padding-left: 27px;
 }
 p{
 font-size: small;
 }
 .img1{
-    padding-top:120px;
+    padding-top:100px;
     padding-bottom:30px;
 }
-.padli > li{
+.header{
+    text-align: right
+}
+.header > li{
     padding-right: 15px;
     text-decoration: none;
 }
-.padli > li > img{
+.header > li > img{
     padding-right:0;
     width: 16px;
     height:16px;
